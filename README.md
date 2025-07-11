@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lofi.gif" alt="Lo-fi coding vibes" width="400"/>
+  <img src="lofi.gif" alt="Lo-fi coding vibes" width="700"/>
 </p>
 
 ### Hi, I'm Mona! 🌙
